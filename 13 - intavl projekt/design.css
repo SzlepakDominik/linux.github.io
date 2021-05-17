@@ -1,0 +1,238 @@
+body {
+    margin: 0px;
+    color: black;
+    position: center;
+    text-align: justify;
+    background-image: url(backdrop.png);
+}
+
+
+.maintexttitle{
+  width: 500px;
+    margin: auto;
+    position: absolute;
+    left: 1450px;
+    top: 500px;
+    color: green;
+} 
+.maintext {
+    width: 500px;
+    margin: auto;
+    position: absolute;
+    left: 1300px;
+    top: 600px;
+    color: white;
+}
+
+.evolution {
+    text-align: center;
+    color: white;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    left: 10px;
+    top: 300px;
+}
+
+.evolutionpt2 {
+  text-align: center;
+  color: white;
+  width: 600px;
+  height: 200px;
+  position: absolute;
+  left: 50px;
+  top: 200px;
+}
+
+.tuxalaptext {
+  text-align: center;
+  color: white;
+  width: 600px;
+  height: 200px;
+  position: absolute;
+  left: 1250px;
+  top: 700px;
+}
+
+.funfactstitle {
+  text-align: center;
+  color: green;
+  width: 600px;
+  height: 200px;
+  position: absolute;
+  left: 2000px;
+  top: 300px;
+}
+
+.tuxfunfacts {
+  text-align: center;
+  color: white;
+  width: 600px;
+  height: 200px;
+  position: absolute;
+  left: 2000px;
+  top: 400px;
+}
+
+
+
+#tuxcreation {
+  height: 100px;
+  width: 500px;
+  position: absolute;
+  left: 50px;
+  top: 450px;
+}
+
+#progress {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 750px;
+    top: 50px;
+}
+
+#tuxoriginal {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 1420px;
+    top: 250px;
+}
+
+
+div.gallery {
+    border: 1px solid #ccc;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    color: white;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .menu {
+    padding: 0 6px;
+    width: 24.99999%;
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .menu {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .menu {
+      width: 100%;
+    }
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  div.menu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+  }
+
+  #ui1 {
+      text-align: center;
+      color: white;
+      width: 600px;
+      height: 200px;
+      position: absolute;
+      left: 650px;
+      top: 150px;
+    }
+
+  #ui2 {
+    text-align: center;
+    color: white;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    left: 1150px;
+    top: 300px;
+  }
+
+  #ui3 {
+    text-align: center;
+    color: white;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    left: 650px;
+    top: 790px;
+  }
+
+  #ui4 {
+    text-align: center;
+    color: white;
+    width: 600px;
+    height: 200px;
+    position: absolute;
+    left: 125px;
+    top: 300px;
+  }
+
+  a:link {
+    color: green;
+  }
+  a:visited {
+    color: pink;
+  }
+  a:hover {
+    color: red;
+  }
+ 
+#uiref{
+  position: absolute;
+  left: 200px;
+  top: 450px;
+}
+
+#xfce{
+  position: absolute;
+  left: 1290px;
+  top: 500px;
+}
+
+.uititle{
+  width: 500px;
+    margin: auto;
+    position: absolute;
+    left: 800px;
+    top: 50px;
+    color: green;
+}
